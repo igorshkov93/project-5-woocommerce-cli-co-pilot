@@ -1,0 +1,23 @@
+﻿# Gemini AI
+google-generativeai>=0.8.0
+
+# WooCommerce REST API
+woocommerce>=3.0.0
+
+# CLI интерфейс
+click>=8.1.7
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HTTP запросы
+requests>=2.31.0
+
+# Data processing
+pandas>=2.1.0
+
+# Логирование
+colorlog>=6.8.0
+
+# Typing и валидация
+pydantic>=2.5.0
